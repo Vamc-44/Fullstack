@@ -48,14 +48,14 @@ const ExperienceSection = () => {
     },
     {
       title: 'Python Software Engineer',
-      company: 'Gigstart',
-      location: 'Delhi, India',
+      company: 'Equinix',
+      location: 'Frisco, TX',
       period: 'July 2018 - Jan 2020'},
 
     {
-      title: 'Backend Developer Intern',
-      company: 'Equinix ',
-      location: 'Frisco, TX ',
+      title: 'Software Developer Intern',
+      company: 'Gigstar ',
+      location: 'Delhi, IN',
       period: 'June 2017 - July 2018'}
   ];
 
